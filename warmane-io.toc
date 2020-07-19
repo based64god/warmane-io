@@ -1,0 +1,13 @@
+## Interface: 40000
+## Title: Warmane IO
+## Notes: Quickly and easily judge a player's competence and experience
+## Version: 0.0.1
+## Author: Based64God
+## SavedVariables: GS_Data, GS_Settings
+## OptionalDeps: Ace3
+embeds.xml
+localization.xml
+main.lua
+utility.xml
+components.xml
+WarmaneIO.lua
