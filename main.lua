@@ -38,7 +38,9 @@ function WarmaneIO:HandleSlashCommand(cmd)
         end
     end
 end
-
+--[[
+	fucking love memes
+--]]
 function WarmaneIO:PrintVersion()
     self:Print(self.SaveSettings:GetDBVersion())
 end
