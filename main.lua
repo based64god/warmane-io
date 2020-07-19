@@ -35,6 +35,7 @@ function WarmaneIO:HandleSlashCommand(cmd)
     else
         if not self:ShowOptions() then
             self:PrintHelp()
+        end
     end
 end
 
